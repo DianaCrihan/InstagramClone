@@ -1,0 +1,13 @@
+Add PushNotifications along the existing Notifications
+
+Add option to Edit Users Profile: Change the Name and the Username
+
+Direct messaging capabilities.
+
+Add hashtags and mentions: Users can add hashtags to their posts -> clicking on a hastag shows a list of all the posts that contain that hashtag.
+
+Add an Options button to each post -> User can Follow/Unfollow another user using that button, or Delete the post if it is his own
+
+
+BUGS:
+There is no Refresher on user's profile -> when uploading a new post, you cannot see it on your profile.
